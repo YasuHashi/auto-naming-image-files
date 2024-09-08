@@ -1,0 +1,1 @@
+# auto-naming-image-files
